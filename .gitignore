@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GTV.Mall.Web/obj
+/GTV.Mall.Web/bin/Debug/net6.0
+/GTV.Mall.Repository/bin/Debug/net6.0
+/GTV.Mall.Repository/obj
+/GTV.Mall.Models/bin/Debug/net6.0
+/GTV.Mall.Models/obj
